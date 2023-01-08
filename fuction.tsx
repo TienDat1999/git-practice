@@ -11,6 +11,6 @@ const calculateMultiple = (a: number, b:number) => {
     return c;
 }
 
-// const divideCalculate = (a: number, b:number) => {
-//     return a / b
-// }
+const divideCalculate = (a: number, b:number) => {
+    return a / b
+}
