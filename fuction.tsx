@@ -14,3 +14,5 @@ const calculateMultiple = (a: number, b:number) => {
 // const divideCalculate = (a: number, b:number) => {
 //     return a / b
 // }
+
+console.log('hi every is done');
