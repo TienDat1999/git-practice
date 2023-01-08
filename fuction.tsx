@@ -11,5 +11,6 @@ const calculateMultiple = (a: number, b:number) => {
     return c;
 }
 
-
-console.log('HEAD-4');
+const divideCalculate = (a: number, b:number) => {
+    return a / b
+}
