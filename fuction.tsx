@@ -10,3 +10,6 @@ const calculateMultiple = (a: number, b:number) => {
     const c = a * b;
     return c;
 }
+
+
+console.log('HEAD-4');
